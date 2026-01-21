@@ -1,0 +1,144 @@
+C:\chatApp\chatApp\chatserver\bin\Debug\net8.0\appsettings.Development.json
+C:\chatApp\chatApp\chatserver\bin\Debug\net8.0\appsettings.json
+C:\chatApp\chatApp\chatserver\bin\Debug\net8.0\dialogs.json
+C:\chatApp\chatApp\chatserver\bin\Debug\net8.0\users.json
+C:\chatApp\chatApp\chatserver\bin\Debug\net8.0\chatserver.staticwebassets.runtime.json
+C:\chatApp\chatApp\chatserver\bin\Debug\net8.0\chatserver.staticwebassets.endpoints.json
+C:\chatApp\chatApp\chatserver\bin\Debug\net8.0\chatserver.exe
+C:\chatApp\chatApp\chatserver\bin\Debug\net8.0\chatserver.deps.json
+C:\chatApp\chatApp\chatserver\bin\Debug\net8.0\chatserver.runtimeconfig.json
+C:\chatApp\chatApp\chatserver\bin\Debug\net8.0\chatserver.dll
+C:\chatApp\chatApp\chatserver\bin\Debug\net8.0\chatserver.pdb
+C:\chatApp\chatApp\chatserver\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\chatApp\chatApp\chatserver\bin\Debug\net8.0\MailKit.dll
+C:\chatApp\chatApp\chatserver\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\chatApp\chatApp\chatserver\bin\Debug\net8.0\MimeKit.dll
+C:\chatApp\chatApp\chatserver\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\chatApp\chatApp\chatserver\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\chatApp\chatApp\chatserver\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\chatApp\chatApp\chatserver\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\chatApp\chatApp\chatserver\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\chatserver.csproj.AssemblyReference.cache
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\chatserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\chatserver.AssemblyInfoInputs.cache
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\chatserver.AssemblyInfo.cs
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\chatserver.csproj.CoreCompileInputs.cache
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\chatserver.MvcApplicationPartsAssemblyInfo.cs
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\chatserver.MvcApplicationPartsAssemblyInfo.cache
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\chatserver.RazorAssemblyInfo.cache
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\chatserver.RazorAssemblyInfo.cs
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\chatserver.sourcelink.json
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\scopedcss\bundle\chatserver.styles.css
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\scopedcss\projectbundle\chatserver.bundle.scp.css
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\staticwebassets.build.json
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\staticwebassets.development.json
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\chatserver.csproj.Up2Date
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\chatserver.dll
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\refint\chatserver.dll
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\chatserver.pdb
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\chatserver.genruntimeconfig.cache
+C:\chatApp\chatApp\chatserver\obj\Debug\net8.0\ref\chatserver.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\appsettings.Development.json
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\dialogs.json
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\users.json
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\appsettings.json
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\chatserver.staticwebassets.runtime.json
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\chatserver.staticwebassets.endpoints.json
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\chatserver.exe
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\chatserver.deps.json
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\chatserver.runtimeconfig.json
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\chatserver.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\chatserver.pdb
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\MailKit.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\MimeKit.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.csproj.AssemblyReference.cache
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.AssemblyInfoInputs.cache
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.AssemblyInfo.cs
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.csproj.CoreCompileInputs.cache
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.MvcApplicationPartsAssemblyInfo.cs
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.MvcApplicationPartsAssemblyInfo.cache
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.RazorAssemblyInfo.cache
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.RazorAssemblyInfo.cs
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.sourcelink.json
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\scopedcss\bundle\chatserver.styles.css
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\scopedcss\projectbundle\chatserver.bundle.scp.css
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\staticwebassets.build.json
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\staticwebassets.development.json
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\swae.build.ex.cache
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.csproj.Up2Date
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\refint\chatserver.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.pdb
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.genruntimeconfig.cache
+D:\programming\chatApp-main\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\ref\chatserver.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\appsettings.json
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\dialogs.json
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\users.json
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\chatserver.staticwebassets.runtime.json
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\chatserver.staticwebassets.endpoints.json
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\chatserver.exe
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\chatserver.deps.json
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\chatserver.runtimeconfig.json
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\chatserver.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\chatserver.pdb
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\MailKit.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\MimeKit.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\scopedcss\bundle\chatserver.styles.css
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\scopedcss\projectbundle\chatserver.bundle.scp.css
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.csproj.Up2Date
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\refint\chatserver.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.pdb
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\chatserver.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatserver\obj\Debug\net8.0\ref\chatserver.dll

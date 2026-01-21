@@ -1,0 +1,167 @@
+C:\chatApp\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient.csproj.AssemblyReference.cache
+C:\chatApp\chatApp\chatclient\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\chatApp\chatApp\chatclient\obj\Debug\net8.0-windows\MainWindow.baml
+C:\chatApp\chatApp\chatclient\obj\Debug\net8.0-windows\ProfileWindow.baml
+C:\chatApp\chatApp\chatclient\obj\Debug\net8.0-windows\App.baml
+C:\chatApp\chatApp\chatclient\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\chatApp\chatApp\chatclient\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\chatApp\chatApp\chatclient\obj\Debug\net8.0-windows\ProfileWindow.g.cs
+C:\chatApp\chatApp\chatclient\obj\Debug\net8.0-windows\App.g.cs
+C:\chatApp\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient_MarkupCompile.cache
+C:\chatApp\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient.g.resources
+C:\chatApp\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient.Properties.Resources.resources
+C:\chatApp\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient.csproj.GenerateResource.cache
+C:\chatApp\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\chatApp\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient.csproj.CoreCompileInputs.cache
+C:\chatApp\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient.sourcelink.json
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\chatclient.exe
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\chatclient.dll.config
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\chatclient.deps.json
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\chatclient.runtimeconfig.json
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\chatclient.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\chatclient.pdb
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\Hardcodet.NotifyIcon.Wpf.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Bcl.TimeProvider.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Extensions.Features.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\System.Net.ServerSentEvents.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\System.Threading.Channels.dll
+C:\chatApp\chatApp\chatclient\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\chatApp\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient.csproj.Up2Date
+C:\chatApp\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient.dll
+C:\chatApp\chatApp\chatclient\obj\Debug\net8.0-windows\refint\chatclient.dll
+C:\chatApp\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient.pdb
+C:\chatApp\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient.genruntimeconfig.cache
+C:\chatApp\chatApp\chatclient\obj\Debug\net8.0-windows\ref\chatclient.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\ChatClient.exe
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\ChatClient.dll.config
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\ChatClient.deps.json
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\ChatClient.runtimeconfig.json
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\ChatClient.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\ChatClient.pdb
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Hardcodet.NotifyIcon.Wpf.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Bcl.TimeProvider.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Extensions.Features.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\System.Net.ServerSentEvents.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\System.Threading.Channels.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\ChatClient.csproj.AssemblyReference.cache
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\MainWindow.baml
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\ProfileWindow.baml
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\App.baml
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\ProfileWindow.g.cs
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\App.g.cs
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\ChatClient_MarkupCompile.cache
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\ChatClient.g.resources
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\ChatClient.Properties.Resources.resources
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\ChatClient.csproj.GenerateResource.cache
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\ChatClient.csproj.CoreCompileInputs.cache
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\ChatClient.csproj.Up2Date
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\ChatClient.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\refint\ChatClient.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\ChatClient.pdb
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\ChatClient.genruntimeconfig.cache
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\ref\ChatClient.dll
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient.sourcelink.json
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\ChatView.baml
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\ChatView.g.cs
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient_MarkupCompile.lref
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\EditMessageWindow.baml
+D:\programming\chatApp-main\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\EditMessageWindow.g.cs
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\chatclient.exe
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\chatclient.dll.config
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\chatclient.deps.json
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\chatclient.runtimeconfig.json
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\chatclient.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\chatclient.pdb
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Hardcodet.NotifyIcon.Wpf.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Bcl.TimeProvider.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Extensions.Features.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\System.Net.ServerSentEvents.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\System.Threading.Channels.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\EditMessageWindow.baml
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\ProfileWindow.baml
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\App.baml
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\ChatView.g.cs
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\EditMessageWindow.g.cs
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\ProfileWindow.g.cs
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\ChatView.baml
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient.g.resources
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient.csproj.Up2Date
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\refint\chatclient.dll
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient.pdb
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\chatclient.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\OOP\chatApp-main (2)\chatApp-main\chatApp\chatclient\obj\Debug\net8.0-windows\ref\chatclient.dll

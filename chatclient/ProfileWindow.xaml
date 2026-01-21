@@ -1,0 +1,201 @@
+﻿<Window x:Class="ChatClient.ProfileWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Профиль пользователя"
+        Height="520"
+        Width="560"
+        WindowStartupLocation="CenterOwner">
+
+    <ScrollViewer Margin="20">
+        <StackPanel>
+
+            <TextBlock Text="Профиль"
+                       Style="{StaticResource SectionTitleText}"/>
+            <TextBlock Text="Обновите данные и настройки аккаунта."
+                       Style="{StaticResource SectionSubtitleText}"/>
+
+            <!-- ================= CONTACT INFO ================= -->
+            <Border Style="{StaticResource CardBorderStyle}" Margin="0,0,0,16">
+                <StackPanel>
+
+                    <TextBlock Text="Контактные данные"
+                               FontWeight="SemiBold"
+                               Margin="0,0,0,12"/>
+
+                    <TextBlock Text="Текущий email"
+                               Style="{StaticResource FormLabelText}"/>
+                    <TextBlock x:Name="EmailTextBlock"
+                               Margin="0,0,0,12"
+                               Foreground="{StaticResource BrushTextSecondary}"/>
+
+                    <TextBlock Text="Имя пользователя"
+                               Style="{StaticResource FormLabelText}"/>
+                    <TextBox x:Name="NameTextBox"
+                             Height="32"
+                             Padding="6,3"
+                             Margin="0,0,0,12"/>
+
+                    <TextBlock Text="Avatar URL"
+                               Style="{StaticResource FormLabelText}"/>
+                    <Grid Margin="0,0,0,12">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <TextBox x:Name="AvatarTextBox"
+                                 Grid.Column="0"
+                                 Height="32"
+                                 Padding="6,3"
+                                 IsReadOnly="True"
+                                 Margin="0,0,8,0"/>
+
+                        <Button Content="Выбрать…"
+                                Grid.Column="1"
+                                Width="110"
+                                Height="32"
+                                Style="{StaticResource SecondaryButtonStyle}"
+                                Click="ChooseAvatarButton_Click"/>
+                    </Grid>
+
+                    <Border CornerRadius="12"
+                            BorderBrush="{StaticResource BrushBorder}"
+                            BorderThickness="1"
+                            Background="{StaticResource BrushSurfaceAlt}"
+                            Padding="8"
+                            Width="140">
+
+                        <Image x:Name="AvatarImage"
+                               Width="120"
+                               Height="120"
+                               Stretch="UniformToFill"/>
+                    </Border>
+
+                </StackPanel>
+            </Border>
+
+            <!-- ================= STATUS ================= -->
+            <Border Style="{StaticResource CardBorderStyle}" Margin="0,0,0,16">
+                <StackPanel>
+
+                    <TextBlock Text="Статус"
+                               FontWeight="SemiBold"
+                               Margin="0,0,0,12"/>
+
+                    <TextBlock Text="Текущий статус"
+                               Style="{StaticResource FormLabelText}"/>
+
+                    <ComboBox x:Name="StatusComboBox"
+                              Height="32"
+                              Margin="0,0,0,12">
+                        <ComboBoxItem Content="Offline"/>
+                        <ComboBoxItem Content="Online"/>
+                        <ComboBoxItem Content="DoNotDisturb"/>
+                    </ComboBox>
+
+                    <TextBlock Text="Описание / био"
+                               Style="{StaticResource FormLabelText}"/>
+
+                    <TextBox x:Name="BioTextBox"
+                             AcceptsReturn="True"
+                             Height="90"
+                             Padding="6"
+                             Margin="0,0,0,12"/>
+
+                    <TextBlock Text="Уведомления"
+                               FontWeight="SemiBold"
+                               Margin="0,0,0,6"/>
+
+                    <CheckBox x:Name="NotificationsEnabledCheckBox"
+                              Content="Включить уведомления"
+                              Margin="0,0,0,4"
+                              IsChecked="True"/>
+                    <CheckBox x:Name="SoundEnabledCheckBox"
+                              Content="Звук"
+                              Margin="0,0,0,4"/>
+                    <CheckBox x:Name="BannerEnabledCheckBox"
+                              Content="Баннер"/>
+
+                </StackPanel>
+            </Border>
+
+            <!-- ================= SECURITY + ACTIONS ================= -->
+            <Border Style="{StaticResource CardBorderStyle}">
+                <StackPanel>
+
+                    <TextBlock Text="Безопасность"
+                               FontWeight="SemiBold"
+                               Margin="0,0,0,12"/>
+
+                    <TextBlock Text="Смена email"
+                               Style="{StaticResource FormLabelText}"/>
+                    <Grid Margin="0,0,0,12">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <TextBox x:Name="NewEmailTextBox"
+                                 Height="32"
+                                 Padding="6,3"
+                                 Grid.Column="0"
+                                 Margin="0,0,8,0"/>
+
+                        <Button Content="Изменить email"
+                                Grid.Column="1"
+                                Width="150"
+                                Height="32"
+                                Style="{StaticResource SecondaryButtonStyle}"
+                                Click="ChangeEmailButton_Click"/>
+                    </Grid>
+
+                    <TextBlock Text="Смена пароля"
+                               Style="{StaticResource FormLabelText}"/>
+                    <PasswordBox x:Name="OldPasswordBox"
+                                 Height="32"
+                                 Margin="0,0,0,8"/>
+                    <PasswordBox x:Name="NewPasswordBox"
+                                 Height="32"
+                                 Margin="0,0,0,14"/>
+
+                    <Button Content="Изменить пароль"
+                            Width="180"
+                            Height="34"
+                            Margin="0,0,0,16"
+                            Style="{StaticResource SecondaryButtonStyle}"
+                            Click="ChangePasswordButton_Click"/>
+
+                    <!-- ======= SMOOTH ACTION BUTTONS ======= -->
+                    <Grid Margin="0,4,0,0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Button Grid.Column="0"
+                                Content="Сохранить изменения"
+                                Height="36"
+                                MinWidth="200"
+                                HorizontalAlignment="Left"
+                                Click="SaveProfileButton_Click"/>
+
+                        <Button Grid.Column="1"
+                                Content="Закрыть"
+                                Height="36"
+                                MinWidth="120"
+                                Margin="12,0,0,0"
+                                Style="{StaticResource SecondaryButtonStyle}"
+                                Click="CloseButton_Click"/>
+                    </Grid>
+
+                    <TextBlock x:Name="StatusTextBlock"
+                               Margin="0,14,0,0"
+                               Foreground="{StaticResource BrushDanger}"
+                               TextWrapping="Wrap"/>
+
+                </StackPanel>
+            </Border>
+
+        </StackPanel>
+    </ScrollViewer>
+</Window>

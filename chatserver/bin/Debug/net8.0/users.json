@@ -1,0 +1,30 @@
+[
+  {
+    "Id": "5d59fbaf-1613-4029-9c62-8a83792ec830",
+    "Email": "akram.izzi@mail.ru",
+    "Password": "akram123",
+    "Name": "akram.izzi",
+    "AvatarUrl": null,
+    "Bio": null,
+    "Status": 1,
+    "NotificationsEnabled": true,
+    "SoundEnabled": true,
+    "BannerEnabled": true,
+    "EmailConfirmed": false,
+    "EmailConfirmToken": "64ba3a3e9adf41cc944545ed8ad1af41"
+  },
+  {
+    "Id": "4851b833-4e31-4b2d-ae5d-7cab2d41943a",
+    "Email": "shegai.va@dvfu.ru",
+    "Password": "@vitaliy@",
+    "Name": "shegai.va",
+    "AvatarUrl": "/avatars/4851b833-4e31-4b2d-ae5d-7cab2d41943a.jpg",
+    "Bio": null,
+    "Status": 0,
+    "NotificationsEnabled": true,
+    "SoundEnabled": true,
+    "BannerEnabled": true,
+    "EmailConfirmed": false,
+    "EmailConfirmToken": "e55987b4bc8e402a82352ee497be5596"
+  }
+]
